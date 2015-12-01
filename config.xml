@@ -25,10 +25,6 @@
     <preference name="permissions" value="none"/>
 
     <!-- to enable individual permissions use the following examples -->
-    <plugin name="phonegap-plugin-push" source="npm" />
-    <plugin name="cordova-plugin-inappbrowser" source="npm" />
-
-
     <feature name="http://api.phonegap.com/1.0/notification"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
 
