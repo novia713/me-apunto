@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmlns   = "http://www.w3.org/ns/widgets"
+<widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.phonegap.meapunto"
         versionCode = "10"
@@ -27,11 +27,6 @@
     <!-- to enable individual permissions use the following examples -->
     <feature name="http://api.phonegap.com/1.0/notification"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
-
-
-    <allow-navigation href="http://dev-me-apunto.pantheon.io/*" />
-    <preference name="stay-in-webview" value="true" />
-
 
         <!-- iPhone 6 / 6+ -->
         <icon src="/icons/esparta-60@3x.png" platform="ios" width="180" height="180" />
