@@ -1,16 +1,17 @@
 <html>
     <head>
-        <script src="phonegap.js"></script>
+        <script src="cordova.js"></script>
 
         <script type="text/javascript" charset="utf-8">
+            function init() {
 
-            var desarrollo = "http://dev-me-apunto.pantheon.io/"
-            console.error(desarrollo);
-            window.location.href = desarrollo;
-            console.info(window.location.href);
+                var desarrollo = "http://dev-me-apunto.pantheon.io/"
+                window.open( desarrollo, "_system", "location=no" );
+
+            }
 
         </script>
     </head>
-    <body>
+    <body onload="init()">
     </body>
 </html>
