@@ -29,6 +29,7 @@
     <feature name="http://api.phonegap.com/1.0/network"/>
 
     <plugin name="cordova-plugin-whitelist" version="~1" />
+    <allow-navigation href="http://dev-me-apunto.pantheon.io/*" />
 
         <!-- iPhone 6 / 6+ -->
         <icon src="/icons/esparta-60@3x.png" platform="ios" width="180" height="180" />
