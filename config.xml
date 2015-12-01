@@ -30,4 +30,5 @@
 
 
     <allow-navigation href="http://dev-me-apunto.pantheon.io/*" />
+    <preference name="stay-in-webview" value="true" />
 </widget>
