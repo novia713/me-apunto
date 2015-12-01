@@ -1,0 +1,17 @@
+{
+  "version": "0.10",
+  "name": "¡Me apunto!",
+  "description": "Busca, organiza y publica eventos deportivos en Madrid",
+  "launch_path": "/index.html",
+  "icons": {
+    "48": "/icons/esparta-48.png",
+    "72": "/icons/esparta-72.png",
+    "96": "/icons/esparta-96.png",
+    "128": "/icons/esparta-128.png"
+  },
+  "developer": {
+    "name": "Leandro713",
+    "url": "http://leandro.vc"
+  },
+  "default_locale": "es"
+}
