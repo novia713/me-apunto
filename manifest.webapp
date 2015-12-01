@@ -5,6 +5,7 @@
   "launch_path": "/index.html",
   "icons": {
     "48": "/icons/esparta-48.png",
+    "60": "/icons/esparta-60.png",
     "72": "/icons/esparta-72.png",
     "96": "/icons/esparta-96.png",
     "128": "/icons/esparta-128.png"
